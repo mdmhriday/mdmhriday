@@ -1,6 +1,6 @@
 # Hi, I’m Mahedi👋
 - 👀 I’m interested in Machine Learning and Computer Vision
-- 🌱 I'm currently working on generative models to solve computer vision problems.
+- 🌱 I'm currently working on Video data anonymization..
 - 💞️ I’m looking to collaborate on exciting projects that lie in the intersection of computer vision and machine learning.
 
 
