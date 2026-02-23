@@ -1,5 +1,5 @@
 # Hi, I’m Mahedi👋
-- 💞️ Working on **multimodal learning with video and audio**
+- 💞️ Working on **multimodal learning with visual and audio data**
 - 🛠 Past projects: **3D reconstruction, diffusion models**
 - 👀 Open to collaborations in **multimodal Learning, Multimodal Reasoning and generative modeling**
 
