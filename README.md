@@ -1,8 +1,7 @@
 # Hi, I’m Mahedi👋
-- 💞️ I’m interested in Machine Learning and Computer Vision
-- 🌱 I'm currently working on intersection of 3D reconstruction and generative models.
-- 👀 I’m looking to collaborate on exciting projects that lie in the intersection of computer vision and machine learning.
-
+- 💞️ Working on **multimodal learning with video and audio**
+- 🛠 Past projects: **3D reconstruction, diffusion models**
+- 👀 Open to collaborations in **multimodal Learning, Multimodal Reasoning and generative modeling**
 
 <!---
 mdmhriday/mdmhriday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
