@@ -1,7 +1,7 @@
 # Hi, I’m Mahedi👋
 - 💞️ Working on **multimodal learning with visual and audio data**
 - 🛠 Past projects: **3D reconstruction, diffusion models**
-- 👀 Open to collaborations in **multimodal Learning, Multimodal Reasoning and generative modeling**
+- 👀 Open to collaborations in **multimodal learning, multimodal reasoning and generative modeling**
 
 <!---
 mdmhriday/mdmhriday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
